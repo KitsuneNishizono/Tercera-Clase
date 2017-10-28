@@ -2,3 +2,12 @@ body{
 	background-color: #53a893;
 	color: #ff7ba4;
 }
+#nat {
+	color:green;
+}
+li.person {
+	color: orange;
+}
+.person {
+	color: grey;
+}
